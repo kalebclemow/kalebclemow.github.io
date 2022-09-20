@@ -1,1 +1,16 @@
-hello 
+<!DOCTYPE html>
+<html>
+<title> Kaleb's E-Portfolio </title>
+
+<body>
+
+
+<h1> I'll put something here eventually </h1>
+
+
+<p> I'll put something here too... </p>
+
+</body>
+</html>
+Footer
+© 2022 GitHub, Inc.
